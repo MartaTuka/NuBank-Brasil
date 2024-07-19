@@ -23,11 +23,13 @@ En solo seis años, Nubank se convirtió en el sexto banco más grande de Brasil
 
 ## Estructura del proyecto
 
-- **datos**: Contiene el conjunto de datos que ha sido utilizado para el análisis.
+**datos**: Contiene el conjunto de datos que ha sido utilizado para el análisis.
+
  - La información financiera está disponible en la propia página web del banco para sus inversores.
  - La información contenida en el conjunto de datos es ficticia y/o cifrada.
    
-- **modelos**:
+ **modelos**:
+ 
  - Modelo de aprendizaje automático de Python: Exportado en formato PKL para cargarlo y usarlo en la página.
  - Modelo de series de tiempo: utiliza precios de cierre diarios históricos de las acciones del banco para pronosticar el valor de las acciones de los próximos tres días hábiles.
 - **streamlit_app**: Alberga la aplicación Streamlit para análisis interactivo.
