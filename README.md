@@ -2,7 +2,8 @@
 
 ## Descripción del proyecto
 
-Este proyecto incluye un breve análisis de Nubank, la exploración de los datos y la creación de modelos de aprendizaje automático. 
+
+Este proyecto incluye un breve análisis de Nubank, la exploración de los datos, el modelo de negocio, sus resultados, y la creación de modelos de aprendizaje automático. 
 
 Uno de los modelos se basa en un conjunto de datos ficticio o cifrado y el otro modelo se basa en el valor de las acciones del banco desde su salida a bolsa.
 
