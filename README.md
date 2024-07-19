@@ -17,7 +17,7 @@ No dudes en explorar y ampliar la información en: [Streamlit](https://nubank-br
 
 <img src="Images/nubanksede.jpeg" alt="Nubank" width="50%">
 
-Nubank es un neobanco brasileño con sede en São Paulo, Brasil. Fundado en 2013, es considerado el banco digital más grande del mundo fuera de Asia y una de las empresas fintech más grandes de América Latina. En 2019 fue reconocida como una de las empresas más innovadoras del mundo por la revista estadounidense Fast Company.
+Nubank es un neobanco brasileño con sede en São Paulo, Brasil. Fundado en 2013, es considerado como el banco digital más grande del mundo fuera de Asia y una de las empresas tecnofinancieras  más grandes de América Latina. En 2019 fue reconocida como una de las empresas más innovadoras del mundo por la revista estadounidense Fast Company.
 
 En solo seis años, Nubank se convirtió en el sexto banco más grande de Brasil, ubicándose entre los cinco principales emisores de tarjetas de crédito y alcanzando 20 millones de clientes a principios de 2020. Entre mediados de 2018 y finales de 2019 (según un estudio de Apptopia), su aplicación se descargó más veces que los tres principales neobancos de Europa juntos.
 
